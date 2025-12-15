@@ -24,6 +24,7 @@ links:
 This cluster bridges **semantic models** and **design systems**.
 
 It explains how:
+
 - components become projections
 - tokens gain meaning
 - systems evolve without breaking
@@ -32,11 +33,13 @@ It explains how:
 ## Why this matters
 
 Traditional design systems assume:
+
 - fixed screens
 - human-only usage
 - static hierarchies
 
 DSO supports:
+
 - agents
 - graphs
 - evolution

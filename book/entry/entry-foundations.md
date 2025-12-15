@@ -18,6 +18,7 @@ links:
 This cluster establishes the **mental shift** required for Semantic Web Design.
 
 It reframes design from:
+
 - interfaces → meaning
 - screens → entities
 - flows → consequences
@@ -34,6 +35,7 @@ If you read only one cluster, start here.
 ## How to navigate
 
 You can:
+
 - read sequentially
 - jump to any concept
 - branch into Semantics or GraphNav at any time

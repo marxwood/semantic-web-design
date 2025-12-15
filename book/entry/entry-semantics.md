@@ -22,6 +22,7 @@ links:
 This cluster defines **what things are**, **how they relate**, and **what rules govern them**.
 
 Semantics is the layer that:
+
 - replaces ad-hoc UI logic
 - enables agents to reason
 - makes systems explainable
@@ -38,6 +39,7 @@ Without semantics, graph navigation collapses into chaos.
 ## Entry paths
 
 Choose based on interest:
+
 - structure → Entities & Relations
 - time → State, History, Irreversibility
 - power → Authority, Permissions, Responsibility

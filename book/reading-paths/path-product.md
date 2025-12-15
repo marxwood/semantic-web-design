@@ -1,0 +1,40 @@
+---
+id: urn:swd:toc:v2:readingpath:product
+title: "Reading Path — Product"
+type: ReadingPath
+audience: product
+status: draft
+focus:
+  - decisions
+  - risk
+  - alignment
+  - scalability
+---
+
+# Reading Path — Product
+
+This path is for product leaders responsible for **outcomes, risk, and coherence**.
+
+## Frame the shift
+
+- → [Foundations 01 — Design After Screens](urn:swd:toc:v2:foundations:01)
+- → [Foundations 06 — Responsibility by Design](urn:swd:toc:v2:foundations:06)
+
+## Decision design
+
+- → [GraphNav 04 — Decision Points](urn:swd:toc:v2:graphnav:04)
+- → [Dual 03 — Intent Capture](urn:swd:toc:v2:dual:03)
+
+## Risk and trust
+
+- → [Dual 04 — Confirmation Gates](urn:swd:toc:v2:dual:04)
+- → [Dual 07 — Failure and Escalation](urn:swd:toc:v2:dual:07)
+
+## Operating at scale
+
+- → [Ops 01 — Governance](urn:swd:toc:v2:ops:01)
+- → [Ops 05 — Incident Response as Sensemaking](urn:swd:toc:v2:ops:05)
+
+## Close
+
+- → [Epilogue](urn:swd:toc:v2:epilogue)

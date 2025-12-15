@@ -20,6 +20,7 @@ links:
 # Graph Navigation
 
 This cluster replaces:
+
 - menus
 - breadcrumbs
 - linear flows
