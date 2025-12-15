@@ -45,5 +45,6 @@ There is no "correct" order.
 ## Continue
 
 - → [Foundations 01 — Design After Screens](urn:swd:toc:v2:foundations:01)
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
 - → [Semantics — Entry](urn:swd:toc:v2:entry:semantics)
 - → [Graph Navigation — Entry](urn:swd:toc:v2:entry:graphnav)

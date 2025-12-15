@@ -17,6 +17,10 @@ This path defines **what an agent must understand before acting**.
 
 It is also how humans should evaluate agent readiness.
 
+## Role mode
+
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
+
 ## Core ontology
 
 - → [Semantics 01 — Entities as Interaction Primitives](urn:swd:toc:v2:semantics:01)

@@ -32,5 +32,6 @@ Dual design enforces parity.
 
 ## Continue
 
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
 - → [Dual 01 — Human Surface + Machine Surface](urn:swd:toc:v2:dual:01)
 - → [Operations — Entry](urn:swd:toc:v2:entry:ops)

@@ -15,6 +15,10 @@ focus:
 
 This path is for product leaders responsible for **outcomes, risk, and coherence**.
 
+## Role mode
+
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
+
 ## Frame the shift
 
 - → [Foundations 01 — Design After Screens](urn:swd:toc:v2:foundations:01)

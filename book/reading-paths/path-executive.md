@@ -15,6 +15,10 @@ focus:
 
 This path is for executives overseeing organizations moving toward **AI-operated systems**.
 
+## Role mode
+
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
+
 ## Why this matters
 
 - → [Foundations 01 — Design After Screens](urn:swd:toc:v2:foundations:01)

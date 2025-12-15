@@ -15,6 +15,10 @@ focus:
 
 This path is for engineers building systems that must survive automation, agents, and change.
 
+## Role mode
+
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
+
 ## Start with structure
 
 - → [Foundations 02 — Meaning as the Unit](urn:swd:toc:v2:foundations:02)

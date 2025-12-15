@@ -18,6 +18,10 @@ This path is for designers transitioning from **screen-based** thinking to **mea
 You do not need to understand infrastructure.  
 You _do_ need to understand consequences.
 
+## Role mode
+
+- → [UI Concept — Role Switcher](urn:swd:toc:v2:uiconcept:role-switcher)
+
 ## Start here
 
 - → [Foundations 01 — Design After Screens](urn:swd:toc:v2:foundations:01)
