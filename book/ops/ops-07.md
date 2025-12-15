@@ -27,6 +27,7 @@ Poorly designed access control distorts meaning.
 ## Why access control is semantic
 
 Permissions define:
+
 - who may assert truth
 - who may change state
 - who may override constraints
@@ -37,6 +38,7 @@ Changing permissions changes the meaning of the system.
 ## Common access control models
 
 Semantic systems often combine:
+
 - role-based access (RBAC)
 - attribute-based access (ABAC)
 - context-based constraints
@@ -47,6 +49,7 @@ Designers must understand the tradeoffs, not just engineers.
 ## Designing visible authority
 
 Good access control design:
+
 - makes authority visible at action points
 - explains why something is allowed or blocked
 - avoids "mystery denials"
@@ -57,6 +60,7 @@ Invisible power erodes trust.
 ## Access control for agents
 
 Agents require:
+
 - explicit authority scopes
 - expiration rules
 - escalation-only privileges

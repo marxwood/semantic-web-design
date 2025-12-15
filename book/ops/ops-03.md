@@ -27,16 +27,18 @@ Semantic systems without guardrails accelerate toward failure.
 ## What a guardrail is
 
 A guardrail is a non-negotiable rule that:
+
 - blocks unsafe actions
 - forces escalation
 - requires additional certainty
 - preserves system integrity
 
-Guardrails sit *before* damage, not after.
+Guardrails sit _before_ damage, not after.
 
 ## Designing guardrails deliberately
 
 Effective guardrails:
+
 - are explicit and named
 - trigger early
 - explain why they activate
@@ -47,14 +49,15 @@ Transparent guardrails feel like competence.
 
 ## Guardrails vs policies
 
-Policies decide *what should happen*.  
-Guardrails decide *what must not happen*.
+Policies decide _what should happen_.  
+Guardrails decide _what must not happen_.
 
 Both are required.
 
 ## Guardrails for agents
 
 Agents must:
+
 - detect guardrail conditions
 - halt or escalate deterministically
 - log activation context

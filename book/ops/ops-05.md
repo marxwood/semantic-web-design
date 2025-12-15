@@ -27,6 +27,7 @@ Semantic Web Design reframes incident response as a sensemaking process.
 ## Why blame blocks learning
 
 Blame-focused response:
+
 - narrows investigation
 - hides systemic causes
 - discourages reporting
@@ -37,6 +38,7 @@ Systems improve when understanding improves.
 ## What an incident really is
 
 An incident occurs when:
+
 - system behavior diverges from expectation
 - constraints interact unexpectedly
 - assumptions are violated
@@ -47,6 +49,7 @@ Treat incidents as signals, not scandals.
 ## Designing incident response flows
 
 Effective incident response requires:
+
 - immediate stabilization
 - preservation of context
 - clear timelines
@@ -58,12 +61,14 @@ Response is an interaction flow, not a checklist.
 ## Human–agent collaboration in incidents
 
 Agents should:
+
 - detect anomalies early
 - halt unsafe actions
 - surface evidence
 - assist diagnosis
 
 Humans should:
+
 - interpret context
 - revise assumptions
 - decide on change

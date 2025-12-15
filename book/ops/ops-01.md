@@ -27,6 +27,7 @@ Governance is the discipline of making that answer explicit.
 ## Why meaning requires ownership
 
 When meaning has no owner:
+
 - definitions drift
 - rules conflict
 - responsibility diffuses
@@ -49,6 +50,7 @@ Governance is stewardship, not authority theater.
 ## Distributed ownership models
 
 Large systems often require:
+
 - domain owners
 - shared vocabularies
 - cross-domain review
@@ -59,6 +61,7 @@ Designers must participate in governance design, not just execution.
 ## Governance as a visible system
 
 Governance must be:
+
 - discoverable
 - inspectable
 - enforceable

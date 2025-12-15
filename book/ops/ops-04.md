@@ -26,6 +26,7 @@ Observability is the ability to understand **what the system is doing and why**,
 ## What observability is (and is not)
 
 Observability is not:
+
 - raw logs
 - dashboards without meaning
 - metrics without context
@@ -35,6 +36,7 @@ Observability is **semantic visibility**.
 ## What must be observable
 
 At minimum:
+
 - actions taken
 - states changed
 - constraints evaluated
@@ -47,6 +49,7 @@ Without these, incidents are mysteries.
 ## Designing observable surfaces
 
 Designers should ensure:
+
 - events are named consistently
 - timelines are navigable
 - causes link to rules
@@ -57,6 +60,7 @@ Observability is an interaction surface, not a backend concern.
 ## Observability for agents
 
 Agents rely on observability to:
+
 - adjust strategies
 - detect drift
 - calibrate confidence

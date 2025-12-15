@@ -27,6 +27,7 @@ Semantic Web Design treats change as a **first-class operational process**.
 ## What changes in semantic systems
 
 Change may affect:
+
 - entity definitions
 - relationships
 - constraints
@@ -39,6 +40,7 @@ Each change has ripple effects.
 ## Designing change pathways
 
 Effective change management requires:
+
 - explicit proposals
 - impact analysis
 - staged rollout
@@ -50,6 +52,7 @@ Change must be navigable, not surprising.
 ## Communicating change
 
 Designers must ensure:
+
 - affected operators are notified
 - intent of change is visible
 - old behavior is explained
@@ -60,6 +63,7 @@ Silence is not communication.
 ## Closing the Ops cluster
 
 At this point, the system is:
+
 - governable
 - observable
 - adaptable

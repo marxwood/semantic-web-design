@@ -27,6 +27,7 @@ Contextual policies balance both.
 ## What a contextual policy is
 
 A contextual policy is a rule whose application depends on:
+
 - actor (who)
 - entity (what)
 - state (when)
@@ -38,12 +39,14 @@ Policies are semantic, not infrastructural.
 ## Why policies must be explicit
 
 Implicit policies:
+
 - surprise operators
 - confuse agents
 - break audits
 - enable abuse
 
 Explicit policies:
+
 - can be reviewed
 - can be reasoned about
 - can be simulated
@@ -52,6 +55,7 @@ Explicit policies:
 ## Designing policy surfaces
 
 Designers should ensure:
+
 - policies are visible at decision points
 - consequences of violation are clear
 - overrides are explicit
@@ -62,6 +66,7 @@ Policy design is interaction design.
 ## For agents
 
 Agents require:
+
 - machine-readable policies
 - deterministic evaluation
 - clear failure modes

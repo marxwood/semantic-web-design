@@ -26,6 +26,7 @@ Learning loops turn experience into **explicit knowledge**.
 ## What a learning loop is
 
 A learning loop captures:
+
 - what happened
 - why it happened
 - what assumption failed
@@ -37,6 +38,7 @@ This knowledge must re-enter the system.
 ## Closing the loop
 
 Learning loops must:
+
 - update semantic models
 - refine constraints
 - adjust policies
@@ -48,6 +50,7 @@ If learning stays external, it decays.
 ## Designers in learning loops
 
 Designers are responsible for:
+
 - updating meaning
 - clarifying boundaries
 - improving affordances
@@ -58,6 +61,7 @@ Learning is a design activity.
 ## Agents and learning
 
 Agents can:
+
 - propose hypothesis updates
 - detect pattern recurrence
 - suggest constraint refinements
